@@ -13,19 +13,19 @@ int Main.main() {
     }
     if New_registartions available;
     {
-        printf("Registered and workshop is full");
+        System.In.print.In("Registered and workshop is full");
     }
        if New_registartions unavailable; 
   {
-        printf("Already registered");
-        printf("detect blank and fake student IDS");
+        System.In.print.In("Already registered");
+        System.Out.print.Out("detect blank and fake student IDS");
     }
 
 
     int report;
-    printf("These are the registered student IDs");
-    printf("The total accepted registrations are around 3 and the total rejected registration are around 4");
-    printf("The total number of places remaining are around 0");
-    printf("blank student IDS rejected, the number of blank rejected student IDS are around 2, one student ID is found to be duplicate");
+System.In.print.In("These are the registered student IDs");
+System.In.print.In("The total accepted registrations are around 3 and the total rejected registration are around 4");
+System.In.print.In("The total number of places remaining are around 0");
+System.Out.print.Out("blank student IDS rejected, the number of blank rejected student IDS are around 2, one student ID is found to be duplicate");
 }
 
