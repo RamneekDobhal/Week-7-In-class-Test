@@ -6,6 +6,8 @@ Main.main() {
     print enter WorkshopName;
     int WorkshopCapacity;
     print enter student ID;
+    HashSet<String> Student ID;
+    print("Enter Student ID:", Student ID);
 
 }
 
